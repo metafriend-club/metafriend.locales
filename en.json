@@ -1,0 +1,38 @@
+{
+  "translation": {
+    "AppTitle": "MetaFriend",
+    "Navigation": {
+      "Link": {
+        "Login": "Login",
+        "SignUp": "Sign up",
+        "Profile": "Profile",
+        "Home": "Home",
+        "Settings": "Settings"
+      },
+      "Auth": {
+        "NoAccount": "Don't have an account? Create one now!",
+        "AlreadyHasAccount": "Already have an account? Log in now!"
+      }
+    },
+    "Actions": {
+      "Auth": {
+        "SignOut": "Sign out",
+        "Login": "Login",
+        "SignUp": "Sign up",
+        "SignUpNext": "Next",
+        "SignUpBack": "Back"
+      }
+    },
+    "Auth": {
+      "GenericEmailPlaceholder": "Please enter your email",
+      "GenericPasswordPlaceholder": "Please enter your password",
+      "GenericUsernamePlaceholder": "Please enter your username",
+      "SignupUsernamePlaceholder": "Please choose a username",
+      "SignupAvatarPlaceholder": "Please choose a avatar",
+      "Error": {
+        "MissingEmail": "You need to enter your email!",
+        "MissingPassword": "You need to enter your password!"
+      }
+    }
+  }
+}
