@@ -33,6 +33,16 @@
         "MissingEmail": "You need to enter your email!",
         "MissingPassword": "You need to enter your password!"
       }
+    },
+    "Modal": {
+      "PostModal": {
+        "NewPost": "New post",
+        "CaptionPlaceholder": "What do you want to share with the world?"
+      }
+    },
+    "Generic": {
+      "Post": "Post",
+      "Cancel": "Cancel"
     }
   }
 }
