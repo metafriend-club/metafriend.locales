@@ -28,6 +28,7 @@
       "SignupEmailPlaceholder": "Please enter a email",
       "GenericPasswordPlaceholder": "Please enter your password",
       "SignupPasswordPlaceholder": "Please enter a password",
+      "SignupRePasswordPlaceholder": "Please re-enter your password",
       "GenericUsernamePlaceholder": "Please enter your username",
       "SignupUsernamePlaceholder": "Please choose a username",
       "SignupAvatarPlaceholder": "Please choose a avatar",
