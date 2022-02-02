@@ -10,8 +10,8 @@
         "Settings": "Settings"
       },
       "Auth": {
-        "NoAccount": "Don't have an account? Create one now!",
-        "AlreadyHasAccount": "Already have an account? Log in now!"
+        "NoAccount": "Don't have an account? Create one now.",
+        "AlreadyHasAccount": "Already have an account? Log in now."
       }
     },
     "Actions": {
